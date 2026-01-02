@@ -1,15 +1,22 @@
- # Hi 👋 
+Hi 👋, I'm Saron Hailemeskel
 
-I'm Saron Hailemeskel
+🚀 Beginner Software Developer | Frontend Development & SQL Learner
+
+---
+
+🎓 Education  
+-BSc in Computer Science
+Addis Ababa University, Addis Ababa, Ethiopia (2024 – 2028)
+
+---
  
-Beginner Software Developer  
 💻 Learning Frontend Development & Database  
 🌍 Based in Ethiopia  
 🎯 Passionate about building projects and improving skills   
 
 ---
 
-🛠 Language & Tools
+🛠 Tech Stack and Tools:
 
 
 <p align="left">
@@ -23,6 +30,13 @@ Beginner Software Developer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 ---
+
+
+🔗 Connect With Me  
+
+- Email: saronhailemeskel15@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/saron-hailemeskel-a178a3391
+
 
 ### 🔥 My Stats
 
