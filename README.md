@@ -1,6 +1,7 @@
 Hi 👋, I'm Saron Hailemeskel
 
-🚀 Beginner Software Developer | Frontend Development & SQL Learner
+🚀 Aspiring Software Developer And Data Analyst
+
 
 ---
 
@@ -10,7 +11,7 @@ Addis Ababa University, Addis Ababa, Ethiopia (2024 – 2028)
 
 ---
  
-💻 Learning Frontend Development & Database  
+💻 Currently Learning BackEnd Development, Data Analytics, DSA
 🌍 Based in Ethiopia  
 🎯 Passionate about building projects and improving skills   
 
