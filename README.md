@@ -1,51 +1,83 @@
-Hi 👋, I'm Saron Hailemeskel
+# 👋 Hi, I'm Saron Hailemeskel
 
-🚀 Aspiring Software Developer And Data Analyst
+### 🚀 Aspiring Software Developer | Data Analyst
 
-
----
-
-🎓 Education  
--BSc in Computer Science
-Addis Ababa University, Addis Ababa, Ethiopia (2024 – 2028)
-
----
- 
-💻 Currently Learning BackEnd Development, Data Analytics, DSA
-🌍 Based in Ethiopia  
-🎯 Passionate about building projects and improving skills   
+I'm a **Computer Science student at Addis Ababa University** passionate about technology, problem-solving, and continuously building my skills through hands-on learning.
 
 ---
 
-🛠 Tech Stack and Tools:
+## 🎓 About Me
 
+* 🎓 **BSc in Computer Science** — Addis Ababa University
+* 📍 Based in **Ethiopia**
+* 💻 Currently learning **Backend Development**
+* 📊 Exploring **Data Analytics**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🌱 Passionate about learning, building, and improving
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+---
 
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming & Development
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+
+### 🗄️ Data & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
 ---
 
 
-🔗 Connect With Me  
+## 🎯 Goals
 
-- Email: saronhailemeskel15@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/saron-hailemeskel-a178a3391
+* Build strong software development fundamentals
+* Become confident in backend development
+* Strengthen my problem-solving and DSA skills
+* Develop practical data analytics skills
+* Keep building and learning consistently
 
+---
 
-### 🔥 My Stats
+## 🔗 Connect With Me
 
-![Saron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saron-hailemeskel&show_icons=true&theme=radical)
+<p>
+  <a href="mailto:saronhailemeskel15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saron-hailemeskel-a178a3391">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-⭐ *Always learning. Always improving.*
+---
 
+### ⭐ Always learning. Always improving.
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
