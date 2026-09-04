@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saron Hailemeskel
 
-### 🚀 Aspiring Software Developer | Data Analyst
+### 🚀 Aspiring Software Developer | Data Analytics Enthusiastic
 
 I'm a **Computer Science student at Addis Ababa University** passionate about technology, problem-solving, and continuously building my skills through hands-on learning.
 
@@ -28,19 +28,19 @@ I'm a **Computer Science student at Addis Ababa University** passionate about te
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Data & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+ <p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
 </p>
+
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  
 </p>
 
 ### 🔧 Tools
